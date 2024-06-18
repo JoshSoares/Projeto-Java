@@ -1,2 +1,3 @@
 # Projeto-Java
-descrição projeto 2
+Projeto SGF (Sistema de Gestão de Funcionários)
+
